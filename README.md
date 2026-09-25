@@ -13,4 +13,4 @@ Script khusus untuk game **Swing For Egg** yang siap langsung dieksekusi melalui
 Copy dan tempel kode berikut ke dalam executor kamu:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexzan1/OpenSourceScript/refs/heads/main/SwingForEgg.lua"))()
+loadstring(game:HttpGet("https://nexzan-hub-only.netlify.app/api/raw/0GzB7cq9Zg"))()
