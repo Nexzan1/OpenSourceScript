@@ -14,3 +14,5 @@ Copy dan tempel kode berikut ke dalam executor kamu:
 
 ```lua
 loadstring(game:HttpGet("https://nexzan-hub-only.netlify.app/api/raw/0GzB7cq9Zg"))()
+```lua
+loadstring(game:HttpGet("https://nexzan-hub-only.netlify.app/api/raw/j2wqWyLZ1w"))()
