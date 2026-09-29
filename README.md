@@ -13,7 +13,8 @@ Script khusus untuk game **Swing For Egg** yang siap langsung dieksekusi melalui
 Copy dan tempel kode berikut ke dalam executor kamu:
 
 ```lua
-loadstring(game:HttpGet("https://nexzan-hub-only.netlify.app/api/raw/0GzB7cq9Zg"))()```
+loadstring(game:HttpGet("https://nexzan-hub-only.netlify.app/api/raw/0GzB7cq9Zg"))()
+```
 
 ### 🥚 Motorcycle For Animals Script
 Script khusus untuk game **Motorcycle For Animals** yang siap langsung dieksekusi melalui executor pilihanmu (Android/Mobile & PC).
