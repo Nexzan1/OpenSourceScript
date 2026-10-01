@@ -330,7 +330,7 @@ do
                 return wind:CreateWindow({
                     Title = "Nexzan Hub",
                     Author = Ride A Pet,
-                    Icon = "lucide:egg",
+                    Icon = "egg",
                     Folder = "NexzanHub",
                     Theme = "Dark",
                     Size = UDim2.fromOffset(580, 460),
@@ -342,7 +342,7 @@ do
                 })
             end,
             function()
-                return wind:CreateWindow({ Title = "Nexzan Hub", Icon = "lucide:egg", Theme = "Dark" })
+                return wind:CreateWindow({ Title = "Nexzan Hub", Icon = "egg", Theme = "Dark" })
             end,
             function() return wind:CreateWindow({ Title = "Nexzan Hub" }) end,
         })
