@@ -1,7 +1,5 @@
 --=====================================================================
---  LAPISAN UI: Chilli API  ->  WindUI   (Nexzan Hub)
---  Semua panggilan UI dibungkus pcall. Kalau ada satu elemen gagal,
---  script TETAP lanjut dan fitur tetap berjalan (tidak pernah berhenti).
+--  LAPISAN UI: WindUI   (Nexzan Hub)
 --=====================================================================
 local v
 do
